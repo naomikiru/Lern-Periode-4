@@ -7,8 +7,8 @@ Syuan Yu, Lai
 ## Grob-Planung
 
 1. Meine Noten sind eher ausgeglichen und reichen. 
-2. **Neu**: 
-3. Ein Zahlenrate-Spiel. Man muss mit begrenzten Versuchen die zufällig generierte Zahl zwischen 1 und 1000 erraten. 
+2. **Neu**: ImageSharp - Bilder bearbeiten
+3. Ein Zahlenrate-Spiel. Man muss mit begrenzten Versuchen die zufällig generierte Zahl zwischen 1 und 1000 erraten.  ImageSharp erlernen.
 4. Ich möchte ein wenig schwierige und längere Codes programmieren
 
 ## 20.2.2024
@@ -17,9 +17,10 @@ Heute habe ich einen Projekt ausgedacht. Das Projekt wird ein Zahlenrate spiel s
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Zahlenrätsel; soweit programmieren bis man schon anfangen raten kann
+- [ ] Zahlenrätsel; Auswahl ob man mit begrenzte oder mit unbegrenzte Versuche spielt
+- [ ] Über ImageSharp informieren und anfangen 
+- [ ] Einen oder zwei Bilder bearbeiten
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |

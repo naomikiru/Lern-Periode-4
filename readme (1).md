@@ -8,12 +8,12 @@ Syuan Yu, Lai
 
 1. Meine Noten sind eher ausgeglichen und reichen. 
 2. **Neu**: 
-3. Ein Zahlenrate-Spiel. Man muss mit begrenzten Versüchen die zufällig generierte Zahl zwischen 1 und 1000 erraten. 
+3. Ein Zahlenrate-Spiel. Man muss mit begrenzten Versuchen die zufällig generierte Zahl zwischen 1 und 1000 erraten. 
 4. Ich möchte ein wenig schwierige und längere Codes programmieren
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich einen Projekt ausgedacht. Das Projekt wird ein Zahlenrate spiel sein. Man muss eine Zahl mit begrenzten Versuchen erraten. Die Zahl wird zufällig generiert und wird zwischen 1 und 1000 sein. Das Programm wird sagen ob die richtige Zahl höher oder tiefer ist. Wenn man keine Versuche mehr hat, wird das Code uns die richtoge Zahl sagen und wenn man die Zahl richtig erraten wird man gratuliert. Das Program wird fragen ob man nochmal spielen möchte. Heute habe ich auch am Modul 164 gearbeitet. (86)
 
 ## 27.2.2024
 

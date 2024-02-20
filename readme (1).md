@@ -1,15 +1,15 @@
 # Lern-Periode 4
 
-Max Muster
+Syuan Yu, Lai
 
 20.2 bis 2.4.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+1. Meine Noten sind eher ausgeglichen und reichen. 
+2. **Neu**: 
+3. Ein Zahlenrate-Spiel. Man muss mit begrenzten Versüchen die zufällig generierte Zahl zwischen 1 und 1000 erraten. 
+4. Ich möchte ein wenig schwierige und längere Codes programmieren
 
 ## 20.2.2024
 

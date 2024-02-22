@@ -17,16 +17,17 @@ Heute habe ich einen Projekt ausgedacht. Das Projekt wird ein Zahlenrate spiel s
 
 ## 27.2.2024
 
-- [ ] Zahlenrätsel; soweit programmieren bis man schon anfangen raten kann
+- [ ] Zahlenrätsel; soweit programmieren bis man schon anfangen Zahlen im Programm raten kann
 - [ ] Zahlenrätsel; Auswahl ob man mit begrenzte oder mit unbegrenzte Versuche spielt
 - [ ] Über ImageSharp informieren und anfangen 
 - [ ] Einen oder zwei Bilder bearbeiten
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               | Geratene Zahl ist kleiner oder grösser als die richtige | 2) 129               | 1) Geben sie eine Zahl ein.  - 3) Die richtige Zahl ist grösser/kleiner.            |          |
+| 2               |   Geratene Zahl ist richtig | 2) 581               | 1) Geben sie eine Zahl ein. - 3) Glückwunsch! Sie haben die Zahl erraten.                |          |
+| 3               | zu viele Versuche                     |  2) 57              | 1) Geben sie eine Zahl ein. ... 7) Sie haben keine Versuche mehr. Die richtige Zahl ist 99.               |          |
+|                 |                      |                |                |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 

@@ -17,7 +17,7 @@ Heute habe ich einen Projekt ausgedacht. Das Projekt wird ein Zahlenrate spiel s
 
 ## 27.2.2024
 
-- [ ] Zahlenrätsel; soweit programmieren bis man schon anfangen Zahlen im Programm raten kann
+- [ ] Zahlenrätsel; soweit programmieren bis man schon anfangen kann, die Zahlen im Programm zu raten
 - [ ] Zahlenrätsel; Auswahl ob man mit begrenzte oder mit unbegrenzte Versuche spielt
 - [ ] Über ImageSharp informieren und anfangen 
 - [ ] Einen oder zwei Bilder bearbeiten

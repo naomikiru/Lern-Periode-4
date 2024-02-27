@@ -8,7 +8,7 @@ Syuan Yu, Lai
 
 1. Meine Noten sind eher ausgeglichen und reichen. 
 2. **Neu**: ImageSharp - Bilder bearbeiten
-3. Ein Zahlenrate-Spiel. Man muss mit begrenzten Versuchen die zufällig generierte Zahl zwischen 1 und 1000 erraten.  ImageSharp erlernen.
+3. Ein Zahlenrate-Spiel. Man muss mit begrenzten Versuchen die zufällig generierte Zahl zwischen 1 und 100 erraten.  ImageSharp erlernen.
 4. Ich möchte ein wenig schwierige und längere Codes programmieren
 
 ## 20.2.2024
@@ -17,21 +17,30 @@ Heute habe ich einen Projekt ausgedacht. Das Projekt wird ein Zahlenrate spiel s
 
 ## 27.2.2024
 
-- [ ] Zahlenrätsel; soweit programmieren bis man schon anfangen kann, die Zahlen im Programm zu raten
+- [x] Zahlenrätsel; soweit programmieren bis man schon anfangen kann, die Zahlen im Programm zu raten
 - [ ] Zahlenrätsel; Auswahl ob man mit begrenzte oder mit unbegrenzte Versuche spielt
 - [ ] Über ImageSharp informieren und anfangen 
 - [ ] Einen oder zwei Bilder bearbeiten
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               | Geratene Zahl ist kleiner oder grösser als die richtige | 2) 129               | 1) Geben sie eine Zahl ein.  - 3) Die richtige Zahl ist grösser/kleiner.            |          |
-| 2               |   Geratene Zahl ist richtig | 2) 581               | 1) Geben sie eine Zahl ein. - 3) Glückwunsch! Sie haben die Zahl erraten.                |          |
-| 3               | zu viele Versuche                     |  2) 57              | 1) Geben sie eine Zahl ein. ... 7) Sie haben keine Versuche mehr. Die richtige Zahl ist 99.               |          |
+| 1               | Geratene Zahl ist kleiner oder grösser als die richtige | 2) 12               | 1) Geben sie eine Zahl ein.  - 3) Die richtige Zahl ist grösser/kleiner.            |  erfüllt        |
+| 2               |   Geratene Zahl ist richtig | 2) 581              | 1) Geben sie eine Zahl ein. - 3) Glückwunsch! Sie haben die Zahl erraten.                |   erfüllt       |
+| 3               | zu viele Versuche                     |  2) 57              | 1) Geben sie eine Zahl ein. ... 7) Sie haben keine Versuche mehr. Die richtige Zahl ist 99.               |  erfüllt        |
 |                 |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich ein bisschen programmiert. Ich habe den Zahlenrate-Spiel angefangen und soweit programmiert, dass man schon anfangen Zahlen raten kann. Ich habe nicht geschafft, die Auswahl zwischen begrenzte Versuche und unbegrenzte Versuche, zu progrmmieren, da ich heute auch an andere Sachen gearbeitet habe. Ich habe an meinen SQL-Projekt weiter gemacht. Ich habe die Dokumentation eschrieben und 2 weitere Aufgaben im LB fertig gemacht. Ich habe aber nicht ImageSharp angeschaut weil ich die anderen Sachen gemacht hab. (77)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+## 05.03.2024
+
+- [ ] Zahlenrätsel; Auswahl ob man mit begrenzte oder mit unbegrenzte Versuche spielt
+- [ ] Über ImageSharp informieren und anfangen 
+- [ ] Einen oder zwei Bilder bearbeiten
+- [ ] Modul 187 Aufträge fertig bearbeiten.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+|  -------------- | -------------------- | -------------- | -------------- | -------- |
+|   1              |  Auswahl zwischen begrenzt oder unbegrenzt                    | 2. Ja    / 4. 7           |  1. Willst du begrenzte Versuche haben?  ( 3. Wie viele Versuche?            |          |
 
 
 

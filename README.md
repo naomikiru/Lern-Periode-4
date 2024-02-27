@@ -40,7 +40,7 @@ Heute habe ich ein bisschen programmiert. Ich habe den Zahlenrate-Spiel angefang
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 |  -------------- | -------------------- | -------------- | -------------- | -------- |
-|   1              |  Auswahl zwischen begrenzt oder unbegrenzt                    | 2. Ja    / 4. 7           |  1. Willst du begrenzte Versuche haben?  ( 3. Wie viele Versuche?            |          |
+|   1              |  Auswahl zwischen begrenzt oder unbegrenzt                    | 2. Ja    / 4. 7           |  1. Willst du begrenzte Versuche haben?  / 3. Wie viele Versuche?            |          |
 
 
 

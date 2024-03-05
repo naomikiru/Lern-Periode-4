@@ -33,14 +33,26 @@ Heute habe ich ein bisschen programmiert. Ich habe den Zahlenrate-Spiel angefang
 
 ## 05.03.2024
 
-- [ ] Zahlenrätsel; Auswahl ob man mit begrenzte oder mit unbegrenzte Versuche spielt
+- [x] Zahlenrätsel; Auswahl ob man mit begrenzte oder mit unbegrenzte Versuche spielt
 - [ ] Über ImageSharp informieren und anfangen 
 - [ ] Einen oder zwei Bilder bearbeiten
 - [ ] Modul 187 Aufträge fertig bearbeiten.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 |  -------------- | -------------------- | -------------- | -------------- | -------- |
-|   1              |  Auswahl zwischen begrenzt oder unbegrenzt                    | 2. Ja    / 4. 7           |  1. Willst du begrenzte Versuche haben?  / 3. Wie viele Versuche?            |          |
+|   1              |  Auswahl zwischen begrenzt oder unbegrenzt                    | 2. Ja    / 4. 7           |  1. Willst du begrenzte Versuche haben?  / 3. Wie viele Versuche?            |  erfüllt        |
+
+Heute habe ich an meinem Zahlenrate-Spiel weiter programmiert. Ich habe es geschafft die Option für begrenzte oder unbegrenzte Versuche ein zu bauen. Ich hatte ein wenig Hilfe von ChatGPT, weil ich das bisschen schwieriger und komplizierter fand. Ich hatte auch paar sehr dumme Fehler, wie z.B. das ";". Der Code ist normal gelaufen bis ich irgendwann nicht mehr reinschreiben kann, weil ich im Code einen ; hingetan habe. Ich habe zuerst gedacht dass ich irgendwas falsch programmiert habe, aber es war am Ende nur das Semicolon. (86) 
+
+## 12.03.2024
+
+- [ ] Über ImageSharp informieren und anfangen 
+- [ ] Einen oder zwei Bilder bearbeiten
+- [ ] Im Zahlenrätsel Code paar unnötige Sachen löschen; Code putzen
+- [ ] Modul 187 Aufträge fertig machen
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+|  -------------- | -------------------- | -------------- | -------------- | -------- |
 
 
 

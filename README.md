@@ -48,11 +48,13 @@ Heute habe ich an meinem Zahlenrate-Spiel weiter programmiert. Ich habe es gesch
 
 - [ ] Über ImageSharp informieren und anfangen 
 - [ ] Einen oder zwei Bilder bearbeiten
-- [ ] Im Zahlenrätsel Code paar unnötige Sachen löschen; Code putzen
-- [ ] Modul 187 Aufträge fertig machen
+- [x] Im Zahlenrätsel Code paar unnötige Sachen löschen; Code putzen
+- [x] Modul 187 Aufträge fertig machen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 |  -------------- | -------------------- | -------------- | -------------- | -------- |
+
+Heute habe ich meine Aufträge vom Modul 187 fertig gemacht. Ich habe dazu eine Dokumentation geschrieben, wie ich die Aufträge gelöst habe und wie ich auf die Lösungen kam. Ich habe danach einen Auftrag im Fach SWIR gemacht und abgegeben. Ich habe dann meinen Code geputzt und die unnötigen Sachen gelöscht, alos ich habe meinen Code schlner gemacht. So bin ich mit dem Projekt fertig geworden. 
 
 
 

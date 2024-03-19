@@ -69,7 +69,7 @@ Heute habe ich angefangen mit ImageSharp. Ich habe mich darüber informiert und 
 - [ ] Einen oder zwei Bilder bearbeiten
 - [ ] Mehr informieren; damit ich genau weiss wie es funktioniert
 - [ ] Aufträge vom Modul 187 fertig machen
-- [ ] 
+- [ ] Wenn informiert; eine kleibe Blume zeichnen in ImageSharp
 
 ## Reflexion
 

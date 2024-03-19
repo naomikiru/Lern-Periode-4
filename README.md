@@ -56,12 +56,21 @@ Heute habe ich an meinem Zahlenrate-Spiel weiter programmiert. Ich habe es gesch
 
 Heute habe ich meine Aufträge vom Modul 187 fertig gemacht. Ich habe dazu eine Dokumentation geschrieben, wie ich die Aufträge gelöst habe und wie ich auf die Lösungen kam. Ich habe danach einen Auftrag im Fach SWIR gemacht und abgegeben. Ich habe dann meinen Code geputzt und die unnötigen Sachen gelöscht, also ich habe meinen Code schöner gemacht. So bin ich mit dem Projekt fertig geworden. (67)
 
-##19.03.2024
+## 19.03.2024
 
-- [ ] Über ImageSharp informieren und anfangen 
+- [x] Über ImageSharp informieren und anfangen 
 - [ ] Einen oder zwei Bilder bearbeiten
 - [ ] Aufträge vom Modul 187 fertig machen
-      
+
+Heute habe ich angefangen mit ImageSharp. Ich habe mich darüber informiert und versucht runterzuladen. Ich war auf sehr viele verschiedene Seiten und habe gelesen wie ImageSharp funktioniert und so. Danach habe ich im Visual Studio Code Imagesharp installiert. Ich habe einen sehr kurzen Code gschrieben dass ein Bild macht, aber ich bin mir nicht sicher ob es funktioniert hat. Danach habe ich mithilfe von ChatGPT einen Code gschrieben, der aber nicht funktionierte. (72)
+
+## 26.03.2024
+
+- [ ] Einen oder zwei Bilder bearbeiten
+- [ ] Mehr informieren; damit ich genau weiss wie es funktioniert
+- [ ] Aufträge vom Modul 187 fertig machen
+- [ ] 
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

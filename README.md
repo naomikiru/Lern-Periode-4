@@ -54,10 +54,14 @@ Heute habe ich an meinem Zahlenrate-Spiel weiter programmiert. Ich habe es gesch
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 |  -------------- | -------------------- | -------------- | -------------- | -------- |
 
-Heute habe ich meine Aufträge vom Modul 187 fertig gemacht. Ich habe dazu eine Dokumentation geschrieben, wie ich die Aufträge gelöst habe und wie ich auf die Lösungen kam. Ich habe danach einen Auftrag im Fach SWIR gemacht und abgegeben. Ich habe dann meinen Code geputzt und die unnötigen Sachen gelöscht, alos ich habe meinen Code schlner gemacht. So bin ich mit dem Projekt fertig geworden. 
+Heute habe ich meine Aufträge vom Modul 187 fertig gemacht. Ich habe dazu eine Dokumentation geschrieben, wie ich die Aufträge gelöst habe und wie ich auf die Lösungen kam. Ich habe danach einen Auftrag im Fach SWIR gemacht und abgegeben. Ich habe dann meinen Code geputzt und die unnötigen Sachen gelöscht, also ich habe meinen Code schöner gemacht. So bin ich mit dem Projekt fertig geworden. (67)
 
+##19.03.2024
 
-
+- [ ] Über ImageSharp informieren und anfangen 
+- [ ] Einen oder zwei Bilder bearbeiten
+- [ ] Aufträge vom Modul 187 fertig machen
+      
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

@@ -67,10 +67,13 @@ Heute habe ich angefangen mit ImageSharp. Ich habe mich darüber informiert und 
 ## 26.03.2024
 
 - [ ] Einen oder zwei Bilder bearbeiten
-- [ ] Mehr informieren; damit ich genau weiss wie es funktioniert
+- [x] Mehr informieren; damit ich genau weiss wie es funktioniert
 - [ ] Wenn informiert; eine kleibe Blume zeichnen in ImageSharp
-- [ ] Aufträge vom Modul 187 fertig machen
+- [x] Aufträge vom Modul 187 fertig machen
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Heute habe ich an einigen meiner Aufträge vom Modul 187 gemacht, weil ich gestern nicht dazu kam, die fertig zu machen. Danach habe ich mich über Imagesharp informiert. Ich habe zuerst den Code aus ChatGPT wieder versucht, der nicht funktioniert hat. Ich habe dann den Code mehrmals geändert, aber es hatte auch keine Wirkung. Ich habe deswegen ein paar Youtube Videos über ImageSharp angeschaut.
+In dieser Lern Periode habe ich einen Zahlenrätsel gemacht und mehrere Aufträge von meinen Modulen. 
+VBV: Ich könnte schwierigere Projekte aussuchen, z.B. einen kleinen Spiel.
+In dieser Lern Periode habe ich schnell am Zahlenrätsel gearbeitet, danach habe ich eher langsam gearbeitet. Teilweise wegen den Aufträgen meiner Module und weil ich ImageSharp nicht vollständig verstehe. (118)
